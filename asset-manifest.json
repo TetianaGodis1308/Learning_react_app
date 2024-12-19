@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Learning_react_app/static/css/main.790b4e6d.css",
+    "main.js": "/Learning_react_app/static/js/main.5c0556e1.js",
+    "static/js/453.2807b325.chunk.js": "/Learning_react_app/static/js/453.2807b325.chunk.js",
+    "static/media/ANAKIN_IMAGE.jpeg": "/Learning_react_app/static/media/ANAKIN_IMAGE.a4154f64d8cd504c9f56.jpeg",
+    "static/media/RAY_IMAGE.jpeg": "/Learning_react_app/static/media/RAY_IMAGE.96a88142898d54bf25ac.jpeg",
+    "index.html": "/Learning_react_app/index.html",
+    "main.790b4e6d.css.map": "/Learning_react_app/static/css/main.790b4e6d.css.map",
+    "main.5c0556e1.js.map": "/Learning_react_app/static/js/main.5c0556e1.js.map",
+    "453.2807b325.chunk.js.map": "/Learning_react_app/static/js/453.2807b325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790b4e6d.css",
+    "static/js/main.5c0556e1.js"
+  ]
+}
